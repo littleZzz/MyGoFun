@@ -1,0 +1,2 @@
+include ':lib_common', ':moudle_app', ':moudle_map'
+rootProject.name='MyGoFun'
